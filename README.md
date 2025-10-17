@@ -1,4 +1,4 @@
-📌 To-Do List App — React.js
+**📌 To-Do List App — React.js**
 
 This is a fully responsive To-Do List application built using React.js, designed to help users manage their tasks efficiently. The app is divided into three sections — To-Do, In Progress, and Done, allowing users to visually track the status of their tasks with a smooth workflow.
 
